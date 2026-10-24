@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @KieranJMcCluskey
-- 👀 I’m interested in Web, Mobile, Cross Platform and Blockchain development
-- 🌱 I’m currently learning Haskel, Plutus, Flutter
-- 💞️ I’m looking to collaborate on hobby applications while I build out my skillset
-- 📫 How to reach me 
+- 👋 Hi, I’m @KieranJMcCluskey from [http](https://sugarollymountain.com/)
+- 👀 I’m interested in Web, Mobile, Cross Platform Game and Application development
+- 🌱 I’m currently learning Agentic 
+- 💞️ I’m looking to collaborate on applications while I build out my skillset
+- 📫 How to reach me at kieran@sugarollymountain.com 
 
 <!---
 KieranJMcCluskey/KieranJMcCluskey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
